@@ -1,1 +1,2 @@
-# TEAM16
+UML diagrams and basic frontend configuration
+
